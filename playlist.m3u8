@@ -1,18 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="initial-scale=1"><title>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703999621/ei/JaSQZeCKNdjEy_sP88GAiAQ/ip/20.75.95.240/id/s9xL1DpBsfQ.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f8TxlE2zs6kR7MGCZpAhRdleb1etsPX0W9Q81w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIpQU1PE74202Sey6C-xQjVFnr24Z2E7poBe1TIbKIX9AiEAqx0JVYjXkB5kHTY83f3iJflxu4zgODtEALfKzQ9KCAw%3D/file/index.m3u8</title></head>
-<body style="font-family: arial, sans-serif; background-color: #fff; color: #000; padding:20px; font-size:18px; overscroll-behavior:contain;" onload="e=document.getElementById('captcha');if(e){e.focus();} if(solveSimpleChallenge) {solveSimpleChallenge(,);}">
-<div style="max-width:400px;">
-<hr noshade size="1" style="color:#ccc; background-color:#ccc;"><br>
-<div style="font-size:13px;">
-Our systems have detected unusual traffic from your computer network.  Please try your request again later.  <a href="#" onclick="document.getElementById('infoDiv0').style.display='block';">Why did this happen?</a><br><br>
-<div id="infoDiv0" style="display:none; background-color:#eee; padding:10px; margin:0 0 15px 0; line-height:1.4em;">
-This page appears when Google automatically detects requests coming from your computer network which appear to be in violation of the <a href="//www.google.com/policies/terms/">Terms of Service</a>. The block will expire shortly after those requests stop.<br><br>This traffic may have been sent by malicious software, a browser plug-in, or a script that sends automated requests.  If you share your network connection, ask your administrator for help &mdash; a different computer using the same IP address may be responsible.  <a href="//support.google.com/websearch/answer/86640">Learn more</a><br><br>Sometimes you may see this page if you are using advanced terms that robots are known to use, or sending requests very quickly.
-</div><br>
-
-IP address: 20.75.95.240<br>Time: 2023-12-30T23:13:42Z<br>URL: https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703999621/ei/JaSQZeCKNdjEy_sP88GAiAQ/ip/20.75.95.240/id/s9xL1DpBsfQ.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f8TxlE2zs6kR7MGCZpAhRdleb1etsPX0W9Q81w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIpQU1PE74202Sey6C-xQjVFnr24Z2E7poBe1TIbKIX9AiEAqx0JVYjXkB5kHTY83f3iJflxu4zgODtEALfKzQ9KCAw%3D/file/index.m3u8<br>
-</div>
-</div>
-</body>
-</html>
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704006695/ei/xr-QZbeGPJW5iwSXo5bQCQ/ip/172.183.64.42/id/s9xL1DpBsfQ.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-vgqsrnzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/UWF9f5QjDavxqIdYQJZZZScZrpy8yh8RShU5Tnswnw/vprv/1/playlist_type/LIVE/mh/P5/mm/44/mn/sn-vgqsrnzs/ms/lva/mv/u/mvi/3/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703984382/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,spc,vprv,playlist_type/sig/AJfQdSswRAIgHeWXi-wx0JMtc9ZlhfU6UPmYQEip2l_5zRGEG_IwwYMCIBDhlll3Mbj-5taEjbsg8BB6RbZ5hj2LGDNeNdZz-0lg/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIgZV2d6ulEX8zQwBtiT6w_cz3Og80bi2u6P1m65vLxO-0CIQCyLmOZv-b0-NFoctx72d19lkWxGGcHMjB6dkIExvm6YA%3D%3D/playlist/index.m3u8
